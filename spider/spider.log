@@ -1,0 +1,148 @@
+Wed, 03 May 2017 16:49:26 crawel.py[line:67] INFO begin page url https://www.lagou.com/zhaopin/,number 1
+Wed, 03 May 2017 16:49:36 crawel.py[line:62] INFO write some new url in file
+Wed, 03 May 2017 16:49:36 crawel.py[line:32] INFO save data already!
+Wed, 03 May 2017 16:54:46 crawel.py[line:71] INFO begin page url https://www.lagou.com/zhaopin/,number 1
+Wed, 03 May 2017 16:54:57 crawel.py[line:39] INFO the page url is getting https://www.lagou.com/zhaopin/
+Wed, 03 May 2017 16:54:57 crawel.py[line:42] INFO get 15 jobs url
+Wed, 03 May 2017 16:55:11 crawel.py[line:46] INFO now get https://www.lagou.com/jobs/3079752.html
+Wed, 03 May 2017 16:55:12 crawel.py[line:46] INFO now get https://www.lagou.com/jobs/3079751.html
+Wed, 03 May 2017 16:55:16 crawel.py[line:46] INFO now get https://www.lagou.com/jobs/3068402.html
+Wed, 03 May 2017 16:55:22 crawel.py[line:46] INFO now get https://www.lagou.com/jobs/3061036.html
+Wed, 03 May 2017 16:55:27 crawel.py[line:46] INFO now get https://www.lagou.com/jobs/3079750.html
+Wed, 03 May 2017 16:55:31 crawel.py[line:46] INFO now get https://www.lagou.com/jobs/3079749.html
+Wed, 03 May 2017 16:55:36 crawel.py[line:46] INFO now get https://www.lagou.com/jobs/3005503.html
+Wed, 03 May 2017 16:55:36 crawel.py[line:46] INFO now get https://www.lagou.com/jobs/3079748.html
+Wed, 03 May 2017 16:55:46 crawel.py[line:46] INFO now get https://www.lagou.com/jobs/3075334.html
+Wed, 03 May 2017 16:55:47 crawel.py[line:46] INFO now get https://www.lagou.com/jobs/3041187.html
+Wed, 03 May 2017 16:55:48 crawel.py[line:46] INFO now get https://www.lagou.com/jobs/2988885.html
+Wed, 03 May 2017 16:55:48 crawel.py[line:46] INFO now get https://www.lagou.com/jobs/3079747.html
+Wed, 03 May 2017 16:55:49 crawel.py[line:46] INFO now get https://www.lagou.com/jobs/2924331.html
+Wed, 03 May 2017 16:55:50 crawel.py[line:46] INFO now get https://www.lagou.com/jobs/2645364.html
+Wed, 03 May 2017 16:55:51 crawel.py[line:46] INFO now get https://www.lagou.com/jobs/3079746.html
+Wed, 03 May 2017 16:55:51 crawel.py[line:63] INFO append 15 urls in lagou.txt
+Wed, 03 May 2017 16:55:51 crawel.py[line:32] INFO save data already!
+Wed, 03 May 2017 16:58:16 crawel.py[line:71] INFO begin page url https://www.lagou.com/zhaopin/,number 1
+Wed, 03 May 2017 16:58:17 crawel.py[line:39] INFO the page url is getting https://www.lagou.com/zhaopin/
+Wed, 03 May 2017 16:59:33 crawel.py[line:71] INFO begin page url https://www.lagou.com/zhaopin/,number 1
+Wed, 03 May 2017 16:59:35 crawel.py[line:39] INFO the page url is getting https://www.lagou.com/zhaopin/
+Wed, 03 May 2017 17:02:15 crawel.py[line:71] INFO begin page url https://www.lagou.com/zhaopin/,number 1
+Wed, 03 May 2017 17:02:16 crawel.py[line:39] INFO the page url is getting https://www.lagou.com/zhaopin/
+Wed, 03 May 2017 21:47:01 crawel.py[line:72] INFO lagou crawel:begin page url https://www.lagou.com/zhaopin/,number 1
+Wed, 03 May 2017 21:47:01 crawel.py[line:78] INFO lagou crawel:read 15 old urls
+Wed, 03 May 2017 21:47:02 crawel.py[line:39] INFO lagou crawel:the page url is getting https://www.lagou.com/zhaopin/
+Wed, 03 May 2017 21:47:02 crawel.py[line:42] INFO lagou crawel:get 15 jobs url
+Wed, 03 May 2017 21:47:03 crawel.py[line:46] INFO lagou crawel:now get https://www.lagou.com/jobs/3081072.html
+Wed, 03 May 2017 21:47:03 crawel.py[line:46] INFO lagou crawel:now get https://www.lagou.com/jobs/3081071.html
+Wed, 03 May 2017 21:47:04 crawel.py[line:46] INFO lagou crawel:now get https://www.lagou.com/jobs/3081070.html
+Wed, 03 May 2017 21:47:05 crawel.py[line:46] INFO lagou crawel:now get https://www.lagou.com/jobs/3081068.html
+Wed, 03 May 2017 21:47:06 crawel.py[line:46] INFO lagou crawel:now get https://www.lagou.com/jobs/3081067.html
+Wed, 03 May 2017 21:47:06 crawel.py[line:46] INFO lagou crawel:now get https://www.lagou.com/jobs/3081065.html
+Wed, 03 May 2017 21:47:07 crawel.py[line:46] INFO lagou crawel:now get https://www.lagou.com/jobs/3081064.html
+Wed, 03 May 2017 21:47:08 crawel.py[line:46] INFO lagou crawel:now get https://www.lagou.com/jobs/2847812.html
+Wed, 03 May 2017 21:47:08 crawel.py[line:46] INFO lagou crawel:now get https://www.lagou.com/jobs/1968328.html
+Wed, 03 May 2017 21:47:09 crawel.py[line:46] INFO lagou crawel:now get https://www.lagou.com/jobs/2945814.html
+Wed, 03 May 2017 21:47:10 crawel.py[line:46] INFO lagou crawel:now get https://www.lagou.com/jobs/3026080.html
+Wed, 03 May 2017 21:47:11 crawel.py[line:46] INFO lagou crawel:now get https://www.lagou.com/jobs/3026075.html
+Wed, 03 May 2017 21:47:11 crawel.py[line:46] INFO lagou crawel:now get https://www.lagou.com/jobs/3081059.html
+Wed, 03 May 2017 21:47:12 crawel.py[line:46] INFO lagou crawel:now get https://www.lagou.com/jobs/3042403.html
+Wed, 03 May 2017 21:47:13 crawel.py[line:46] INFO lagou crawel:now get https://www.lagou.com/jobs/3081058.html
+Wed, 03 May 2017 21:47:13 crawel.py[line:64] INFO lagou crawel:append 15 urls in lagou.txt
+Wed, 03 May 2017 21:47:13 crawel.py[line:32] INFO lagou crawel:save data already!
+Wed, 03 May 2017 21:47:13 crawel.py[line:52] INFO lagou crawel:thread is slepping, may awake on tomorrow
+Wed, 03 May 2017 21:52:00 crawel.py[line:72] INFO lagou crawel:begin page url https://www.lagou.com/zhaopin/,number 1
+Wed, 03 May 2017 21:52:00 crawel.py[line:78] INFO lagou crawel:read 15 old urls
+Wed, 03 May 2017 21:52:01 crawel.py[line:39] INFO lagou crawel:the page url is getting https://www.lagou.com/zhaopin/
+Wed, 03 May 2017 21:52:01 crawel.py[line:42] INFO lagou crawel:get 15 jobs url
+Wed, 03 May 2017 21:54:16 crawel.py[line:46] INFO lagou crawel:now get https://www.lagou.com/jobs/3081073.html
+Wed, 03 May 2017 21:55:49 crawel.py[line:72] INFO lagou crawel:begin page url https://www.lagou.com/zhaopin/,number 1
+Wed, 03 May 2017 21:55:49 crawel.py[line:78] INFO lagou crawel:read 15 old urls
+Wed, 03 May 2017 21:55:50 crawel.py[line:39] INFO lagou crawel:the page url is getting https://www.lagou.com/zhaopin/
+Wed, 03 May 2017 21:55:50 crawel.py[line:42] INFO lagou crawel:get 15 jobs url
+Wed, 03 May 2017 21:55:51 crawel.py[line:46] INFO lagou crawel:now get https://www.lagou.com/jobs/3081073.html
+Wed, 03 May 2017 21:55:52 crawel.py[line:46] INFO lagou crawel:now get https://www.lagou.com/jobs/1047720.html
+Wed, 03 May 2017 21:55:52 crawel.py[line:64] INFO lagou crawel:append 15 urls in lagou.txt
+Wed, 03 May 2017 21:55:52 crawel.py[line:32] INFO lagou crawel:save data already!
+Wed, 03 May 2017 21:55:52 crawel.py[line:52] INFO lagou crawel:thread is slepping, may awake on tomorrow
+Wed, 03 May 2017 21:56:47 crawel.py[line:72] INFO lagou crawel:begin page url https://www.lagou.com/zhaopin/,number 1
+Wed, 03 May 2017 21:56:47 crawel.py[line:78] INFO lagou crawel:read 15 old urls
+Wed, 03 May 2017 21:56:48 crawel.py[line:39] INFO lagou crawel:the page url is getting https://www.lagou.com/zhaopin/
+Wed, 03 May 2017 21:56:48 crawel.py[line:42] INFO lagou crawel:get 15 jobs url
+Wed, 03 May 2017 21:56:48 crawel.py[line:64] INFO lagou crawel:append 15 urls in lagou.txt
+Wed, 03 May 2017 21:56:48 crawel.py[line:32] INFO lagou crawel:save data already!
+Wed, 03 May 2017 21:56:48 crawel.py[line:52] INFO lagou crawel:thread is slepping, may awake on tomorrow
+Wed, 03 May 2017 21:58:11 crawel.py[line:72] INFO lagou crawel:begin page url https://www.lagou.com/zhaopin/,number 1
+Wed, 03 May 2017 21:58:11 crawel.py[line:78] INFO lagou crawel:read 11 old urls
+Wed, 03 May 2017 21:58:12 crawel.py[line:39] INFO lagou crawel:the page url is getting https://www.lagou.com/zhaopin/
+Wed, 03 May 2017 21:58:12 crawel.py[line:42] INFO lagou crawel:get 15 jobs url
+Wed, 03 May 2017 21:58:13 crawel.py[line:46] INFO lagou crawel:now get https://www.lagou.com/jobs/3081088.html
+Wed, 03 May 2017 21:58:14 crawel.py[line:46] INFO lagou crawel:now get https://www.lagou.com/jobs/2790210.html
+Wed, 03 May 2017 21:58:14 crawel.py[line:46] INFO lagou crawel:now get https://www.lagou.com/jobs/3081087.html
+Wed, 03 May 2017 21:58:15 crawel.py[line:46] INFO lagou crawel:now get https://www.lagou.com/jobs/2745354.html
+Wed, 03 May 2017 21:58:15 crawel.py[line:46] INFO lagou crawel:now get https://www.lagou.com/jobs/3081085.html
+Wed, 03 May 2017 21:58:16 crawel.py[line:46] INFO lagou crawel:now get https://www.lagou.com/jobs/2930455.html
+Wed, 03 May 2017 21:58:17 crawel.py[line:46] INFO lagou crawel:now get https://www.lagou.com/jobs/3065592.html
+Wed, 03 May 2017 21:58:18 crawel.py[line:46] INFO lagou crawel:now get https://www.lagou.com/jobs/3031179.html
+Wed, 03 May 2017 21:58:18 crawel.py[line:46] INFO lagou crawel:now get https://www.lagou.com/jobs/3006550.html
+Wed, 03 May 2017 21:58:19 crawel.py[line:46] INFO lagou crawel:now get https://www.lagou.com/jobs/3081083.html
+Wed, 03 May 2017 21:58:20 crawel.py[line:46] INFO lagou crawel:now get https://www.lagou.com/jobs/2381097.html
+Wed, 03 May 2017 21:58:20 crawel.py[line:46] INFO lagou crawel:now get https://www.lagou.com/jobs/3081081.html
+Wed, 03 May 2017 21:58:21 crawel.py[line:46] INFO lagou crawel:now get https://www.lagou.com/jobs/3081078.html
+Wed, 03 May 2017 21:58:22 crawel.py[line:46] INFO lagou crawel:now get https://www.lagou.com/jobs/3081077.html
+Wed, 03 May 2017 21:58:23 crawel.py[line:46] INFO lagou crawel:now get https://www.lagou.com/jobs/3081076.html
+Wed, 03 May 2017 21:58:23 crawel.py[line:64] INFO lagou crawel:append 15 urls in lagou.txt
+Wed, 03 May 2017 21:58:23 crawel.py[line:32] INFO lagou crawel:save data already!
+Wed, 03 May 2017 21:58:23 crawel.py[line:52] INFO lagou crawel:thread is slepping, may awake on tomorrow
+Wed, 03 May 2017 22:03:21 crawel.py[line:72] INFO lagou crawel:begin page url https://www.lagou.com/zhaopin/,number 1
+Wed, 03 May 2017 22:03:21 crawel.py[line:78] INFO lagou crawel:read 15 old urls
+Wed, 03 May 2017 22:03:22 crawel.py[line:39] INFO lagou crawel:the page url is getting https://www.lagou.com/zhaopin/
+Wed, 03 May 2017 22:03:22 crawel.py[line:42] INFO lagou crawel:get 15 jobs url
+Wed, 03 May 2017 22:03:22 crawel.py[line:46] INFO lagou crawel:now get https://www.lagou.com/jobs/3081090.html
+Wed, 03 May 2017 22:03:24 crawel.py[line:46] INFO lagou crawel:now get https://www.lagou.com/jobs/3047061.html
+Wed, 03 May 2017 22:03:24 crawel.py[line:46] INFO lagou crawel:now get https://www.lagou.com/jobs/3072108.html
+Wed, 03 May 2017 22:03:25 crawel.py[line:46] INFO lagou crawel:now get https://www.lagou.com/jobs/3033438.html
+Wed, 03 May 2017 22:03:29 crawel.py[line:46] INFO lagou crawel:now get https://www.lagou.com/jobs/3081089.html
+Wed, 03 May 2017 22:03:29 crawel.py[line:64] INFO lagou crawel:append 15 urls in lagou.txt
+Wed, 03 May 2017 22:03:29 crawel.py[line:32] INFO lagou crawel:save data already!
+Wed, 03 May 2017 22:03:29 crawel.py[line:52] INFO lagou crawel:thread is slepping, may awake on tomorrow
+Thu, 04 May 2017 13:47:40 crawel.py[line:77] INFO lagou crawel:begin page url https://www.lagou.com/zhaopin/,number 1
+Thu, 04 May 2017 13:47:40 crawel.py[line:83] INFO lagou crawel:read 1 old urls
+Thu, 04 May 2017 13:47:41 crawel.py[line:44] INFO lagou crawel:the page url is getting https://www.lagou.com/zhaopin/
+Thu, 04 May 2017 13:47:41 crawel.py[line:47] INFO lagou crawel:get 15 jobs url
+Thu, 04 May 2017 13:47:41 crawel.py[line:51] INFO lagou crawel:now get https://www.lagou.com/jobs/3083245.html
+Thu, 04 May 2017 13:47:42 crawel.py[line:51] INFO lagou crawel:now get https://www.lagou.com/jobs/3039899.html
+Thu, 04 May 2017 13:47:42 crawel.py[line:51] INFO lagou crawel:now get https://www.lagou.com/jobs/3083244.html
+Thu, 04 May 2017 13:47:43 crawel.py[line:51] INFO lagou crawel:now get https://www.lagou.com/jobs/3083243.html
+Thu, 04 May 2017 13:47:43 crawel.py[line:51] INFO lagou crawel:now get https://www.lagou.com/jobs/3068002.html
+Thu, 04 May 2017 13:47:44 crawel.py[line:51] INFO lagou crawel:now get https://www.lagou.com/jobs/3037209.html
+Thu, 04 May 2017 13:47:44 crawel.py[line:51] INFO lagou crawel:now get https://www.lagou.com/jobs/3035497.html
+Thu, 04 May 2017 13:47:45 crawel.py[line:51] INFO lagou crawel:now get https://www.lagou.com/jobs/3059639.html
+Thu, 04 May 2017 13:47:45 crawel.py[line:51] INFO lagou crawel:now get https://www.lagou.com/jobs/3036573.html
+Thu, 04 May 2017 13:47:46 crawel.py[line:51] INFO lagou crawel:now get https://www.lagou.com/jobs/3083242.html
+Thu, 04 May 2017 13:47:46 crawel.py[line:51] INFO lagou crawel:now get https://www.lagou.com/jobs/3083241.html
+Thu, 04 May 2017 13:47:47 crawel.py[line:51] INFO lagou crawel:now get https://www.lagou.com/jobs/3008100.html
+Thu, 04 May 2017 13:47:47 crawel.py[line:51] INFO lagou crawel:now get https://www.lagou.com/jobs/2898067.html
+Thu, 04 May 2017 13:47:47 crawel.py[line:51] INFO lagou crawel:now get https://www.lagou.com/jobs/3083240.html
+Thu, 04 May 2017 13:47:48 crawel.py[line:51] INFO lagou crawel:now get https://www.lagou.com/jobs/3083239.html
+Thu, 04 May 2017 13:47:48 crawel.py[line:69] INFO lagou crawel:append 15 urls in lagou.txt
+Thu, 04 May 2017 13:49:52 crawel.py[line:77] INFO lagou crawel:begin page url https://www.lagou.com/zhaopin/,number 1
+Thu, 04 May 2017 13:49:52 crawel.py[line:83] INFO lagou crawel:read 1 old urls
+Thu, 04 May 2017 13:49:53 crawel.py[line:44] INFO lagou crawel:the page url is getting https://www.lagou.com/zhaopin/
+Thu, 04 May 2017 13:49:53 crawel.py[line:47] INFO lagou crawel:get 15 jobs url
+Thu, 04 May 2017 13:49:53 crawel.py[line:51] INFO lagou crawel:now get https://www.lagou.com/jobs/3083245.html
+Thu, 04 May 2017 13:49:54 crawel.py[line:51] INFO lagou crawel:now get https://www.lagou.com/jobs/3039899.html
+Thu, 04 May 2017 13:49:54 crawel.py[line:51] INFO lagou crawel:now get https://www.lagou.com/jobs/3083244.html
+Thu, 04 May 2017 13:49:55 crawel.py[line:51] INFO lagou crawel:now get https://www.lagou.com/jobs/3083243.html
+Thu, 04 May 2017 13:49:55 crawel.py[line:51] INFO lagou crawel:now get https://www.lagou.com/jobs/3068002.html
+Thu, 04 May 2017 13:49:56 crawel.py[line:51] INFO lagou crawel:now get https://www.lagou.com/jobs/3037209.html
+Thu, 04 May 2017 13:49:56 crawel.py[line:51] INFO lagou crawel:now get https://www.lagou.com/jobs/3035497.html
+Thu, 04 May 2017 13:49:57 crawel.py[line:51] INFO lagou crawel:now get https://www.lagou.com/jobs/3059639.html
+Thu, 04 May 2017 13:49:57 crawel.py[line:51] INFO lagou crawel:now get https://www.lagou.com/jobs/3036573.html
+Thu, 04 May 2017 13:49:57 crawel.py[line:51] INFO lagou crawel:now get https://www.lagou.com/jobs/3083242.html
+Thu, 04 May 2017 13:49:58 crawel.py[line:51] INFO lagou crawel:now get https://www.lagou.com/jobs/3083241.html
+Thu, 04 May 2017 13:49:58 crawel.py[line:51] INFO lagou crawel:now get https://www.lagou.com/jobs/3008100.html
+Thu, 04 May 2017 13:49:59 crawel.py[line:51] INFO lagou crawel:now get https://www.lagou.com/jobs/2898067.html
+Thu, 04 May 2017 13:49:59 crawel.py[line:51] INFO lagou crawel:now get https://www.lagou.com/jobs/3083240.html
+Thu, 04 May 2017 13:50:00 crawel.py[line:51] INFO lagou crawel:now get https://www.lagou.com/jobs/3083239.html
+Thu, 04 May 2017 13:50:00 crawel.py[line:69] INFO lagou crawel:append 15 urls in lagou.txt
+Thu, 04 May 2017 13:50:00 crawel.py[line:37] INFO lagou crawel:save data already!
+Thu, 04 May 2017 13:50:00 crawel.py[line:57] INFO lagou crawel:thread is slepping, may awake on tomorrow
